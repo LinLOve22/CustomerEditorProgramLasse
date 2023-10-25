@@ -1,0 +1,11 @@
+CustomerAddressEditor/.vs/
+CustomerAddressEditor/Abstractions/obj/
+CustomerAddressEditor/Abstractions/bin/
+CustomerAddressEditor/BusinessLogic/bin/
+CustomerAddressEditor/BusinessLogic/obj/
+CustomerAddressEditor/GUI/bin/Debug/net6.0-windows/Abstractions.dll
+CustomerAddressEditor/GUI/bin/
+CustomerAddressEditor/GUI/obj/
+CustomerAddressEditor/Repositories/obj/
+CustomerAddressEditor/UnitTests/obj/
+CustomerAddressEditor/Repositories/bin/
